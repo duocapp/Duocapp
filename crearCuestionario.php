@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Crear cuestionario.</title>
+<title>Crear cuestionario</title>
 </head>
 
 Fuente: https://www.ejemplode.com/17-html/531-ejemplo_de_como_poner_el_titulo_a_un_documento_html.html#ixzz6xKx4wmR6
