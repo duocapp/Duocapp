@@ -33,7 +33,7 @@
     <div class="form-group col-12 col-lg-6">
                     <label>Encuesta:</label>
                     <select name="codigo_encuesta" required>
-                        <option name="idPregunta" selected hidden value="" required>seleccione la Encuesta</option>
+                        <option name="idPregunta" selected hidden value="" required>seleccione la Encuesta </option>
                             <?php
                                 $result = $con->query("SELECT 	codigo_encuesta,
                                                         CONCAT(enc.id_profesorfk,' ', asi.nombre_asignatura,' ' ,enc.dia_encuesta) as 'clase'
