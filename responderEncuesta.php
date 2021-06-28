@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="es">
 <?php $title = 'Encuesta'; ?>
 <?php $currentPage = 'responderEncuesta'; ?>
 <?php include('head.php'); ?>
@@ -12,6 +13,7 @@
     $respuesta3 =$_POST['Aceptacion3'];
     $comentario =$_POST['Comentario'];
 ?>
+<head><title></title></head>
 
 <body>
     <div class="container-md d-flex justify-content-center" style="background-color:white" text-center py-5>
